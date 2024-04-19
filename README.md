@@ -6,17 +6,8 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <!--<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="100px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>-->
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
-
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -38,6 +29,14 @@
 <p>&emsp;&emsp;<strong>He is very open to collaborating with potential partners to explore interesting real-world problems.</strong></p>
 
 </td></tr>
+
+<tr><td>
+
+### 🔥 News
+<p>* Currently, he is dedicated to researching the use of GNU Octave tool and the writing of basic libraries. He welcomes collaboration with researchers who are passionate about this subject.</p>
+
+</td></tr>
+
 
 <tr><td>
 
