@@ -40,7 +40,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 Recent Work
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
