@@ -2,7 +2,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey! Nice to see you.&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's brainstorm;Let's discover;Let's design;Let's create;Let's invent;Let's collaborate;Let's go;scinit!&center=true&size=27" />
     </a>
   </div>
 
@@ -35,8 +35,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-#  🙋 Hello
+</div>
+#  🤝 Hello
 
 <table>
   
@@ -56,11 +56,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog.sunguoqi.com/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+
+* <a href='https://doi.org/10.1109/ICTAI52525.2021.00185' target='_blank'>Zhou X, Wu Y, Peng H, et al. An individual-dependent differential evolution with dual information guidance[C]//2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2021: 1170-1177.</a>
+* <a href='https://doi.org/10.1016/j.asoc.2021.107697' target='_blank'>Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on multiple neighborhood topologies[J]. Applied Soft Computing, 2021, 111: 107697.</a>
 <!-- END_SECTION:blog -->
 
 </td></tr>
