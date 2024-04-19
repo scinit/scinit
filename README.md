@@ -57,7 +57,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:blog -->
-<p>* Cai Y, Wu Y, Fang C. TSEMTA: A tripartite shared evolutionary multi-task algorithm for optimizing many-task vehicle routing problems[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108179.<a href='https://doi.org/10.1016/j.engappai.2024.108179' target='_blank' style='text-decoration:none;'>Link</a></p>
+<p>* Cai Y, Wu Y, Fang C. TSEMTA: A tripartite shared evolutionary multi-task algorithm for optimizing many-task vehicle routing problems[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108179. <a href='https://doi.org/10.1016/j.engappai.2024.108179' target='_blank' style='text-decoration:none;'>Link</a></p>
 <p>* Cai Y, Wu Y, Fang C. Double-assistant evolutionary multitasking algorithm for enhanced electric vehicle routing with backup batteries and battery swapping stations[J]. Expert Systems with Applications, 2024, 237: 121600.<a href='https://doi.org/10.1016/j.eswa.2023.121600' target='_blank' style='text-decoration:none;'>&emsp;Link</a></p>
 <p>* Zhou X, Wu Y, Peng H, et al. Differential Evolution Algorithm with Dual Information Guidance[J]. International Journal on Artificial Intelligence Tools, 2023, 32(5).<a href='https://doi.org/10.1142/S0218213023600011' target='_blank' style='text-decoration:none;'>&emsp;Link</a></p>
 <p>* Wu Y, Cai Y, Fang C. Evolutionary multitasking for bidirectional adaptive codec: A case study on vehicle routing problem with time windows[J]. Applied Soft Computing, 2023, 145: 110605.<a href='https://doi.org/10.1016/j.asoc.2023.110605' target='_blank' style='text-decoration:none;'>&emsp;Link</a></p>
