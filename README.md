@@ -57,8 +57,8 @@
 
 <!-- START_SECTION:blog -->
 
-* Zhou X, Wu Y, Peng H, et al. An individual-dependent differential evolution with dual information guidance[C]//2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2021: 1170-1177. <a href='https://doi.org/10.1109/ICTAI52525.2021.00185' target='_blank'>go</a>
-* Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on multiple neighborhood topologies[J]. Applied Soft Computing, 2021, 111: 107697.<a href='https://doi.org/10.1016/j.asoc.2021.107697' target='_blank'>go</a>
+* Zhou X, Wu Y, Peng H, et al. An individual-dependent differential evolution with dual information guidance[C]//2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2021: 1170-1177. <a href='https://doi.org/10.1109/ICTAI52525.2021.00185' target='_blank' style='text-decoration:none;'>Link</a>
+* Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on multiple neighborhood topologies[J]. Applied Soft Computing, 2021, 111: 107697.<a href='https://doi.org/10.1016/j.asoc.2021.107697' target='_blank' style='text-decoration:none;'>Link</a>
 
 <!-- END_SECTION:blog -->
 
