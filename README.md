@@ -36,7 +36,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-#  🙋 Hello
+<!--#  🙋 Hello-->
 
 <table>
   
@@ -57,8 +57,9 @@
 
 <!-- START_SECTION:blog -->
 
-* <a href='https://doi.org/10.1109/ICTAI52525.2021.00185' target='_blank'>Zhou X, Wu Y, Peng H, et al. An individual-dependent differential evolution with dual information guidance[C]//2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2021: 1170-1177.</a>
-* <a href='https://doi.org/10.1016/j.asoc.2021.107697' target='_blank'>Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on multiple neighborhood topologies[J]. Applied Soft Computing, 2021, 111: 107697.</a>
+* Zhou X, Wu Y, Peng H, et al. An individual-dependent differential evolution with dual information guidance[C]//2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2021: 1170-1177. <a href='https://doi.org/10.1109/ICTAI52525.2021.00185' target='_blank'>go</a>
+* Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on multiple neighborhood topologies[J]. Applied Soft Computing, 2021, 111: 107697.<a href='https://doi.org/10.1016/j.asoc.2021.107697' target='_blank'>go</a>
+
 <!-- END_SECTION:blog -->
 
 </td></tr>
