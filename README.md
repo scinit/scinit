@@ -57,9 +57,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:blog -->
-* Cai Y, Wu Y, Fang C. TSEMTA: A tripartite shared evolutionary multi-task algorithm for optimizing many-task vehicle routing problems[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108179.<a href='https://doi.org/10.1016/j.engappai.2024.108179' target='_blank' style='text-decoration:none;'>Link</a>
-* Cai Y, Wu Y, Fang C. Double-assistant evolutionary multitasking algorithm for enhanced electric vehicle routing with backup batteries and battery swapping stations[J]. Expert Systems with Applications, 2024, 237: 121600.<a href='https://doi.org/10.1016/j.eswa.2023.121600' target='_blank' style='text-decoration:none;'>Link</a>
-* Zhou X, Wu Y, Peng H, et al. Differential Evolution Algorithm with Dual Information Guidance[J]. International Journal on Artificial Intelligence Tools, 2023, 32(5).<a href='https://doi.org/10.1142/S0218213023600011' target='_blank' style='text-decoration:none;'>Link</a>
+<p>* Cai Y, Wu Y, Fang C. TSEMTA: A tripartite shared evolutionary multi-task algorithm for optimizing many-task vehicle routing problems[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108179.<a href='https://doi.org/10.1016/j.engappai.2024.108179' target='_blank' style='text-decoration:none;'>Link</a></p>
+<p>* Cai Y, Wu Y, Fang C. Double-assistant evolutionary multitasking algorithm for enhanced electric vehicle routing with backup batteries and battery swapping stations[J]. Expert Systems with Applications, 2024, 237: 121600.<a href='https://doi.org/10.1016/j.eswa.2023.121600' target='_blank' style='text-decoration:none;'>Link</a></p>
+<p>* Zhou X, Wu Y, Peng H, et al. Differential Evolution Algorithm with Dual Information Guidance[J]. International Journal on Artificial Intelligence Tools, 2023, 32(5).<a href='https://doi.org/10.1142/S0218213023600011' target='_blank' style='text-decoration:none;'>Link</a></p>
 * Wu Y, Cai Y, Fang C. Evolutionary multitasking for bidirectional adaptive codec: A case study on vehicle routing problem with time windows[J]. Applied Soft Computing, 2023, 145: 110605.<a href='https://doi.org/10.1016/j.asoc.2023.110605' target='_blank' style='text-decoration:none;'>Link</a>
 * Zhou X, Wu Y, Wu S, et al. Accelerating artificial bee colony algorithm using elite information[J]. International Journal of Innovative Computing and Applications, 2022, 13(5-6): 325-335.<a href='https://doi.org/10.1504/IJICA.2022.128440' target='_blank' style='text-decoration:none;'>Link</a>
 * Zhou X, Wu Y, Zhong M, et al. Artificial bee colony algorithm based on adaptive neighborhood topologies[J]. Information Sciences, 2022, 610: 1078-1101. <a href='https://doi.org/10.1016/j.ins.2022.08.001' target='_blank' style='text-decoration:none;'>Link</a>
@@ -75,22 +75,6 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>
 
 
