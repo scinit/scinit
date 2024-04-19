@@ -33,7 +33,7 @@
 <tr><td>
 
 ### 🔥 News
-<p>* Currently, he is dedicated to researching the use of GNU Octave tool and the writing of basic libraries. He welcomes collaboration with researchers who are passionate about this subject.</p>
+<p>* Currently, he is dedicated to researching the use of GNU Octave tool and the writing of basic libraries. He welcomes collaboration with researchers who are passionate about this subject. 2024-04</p>
 
 </td></tr>
 
