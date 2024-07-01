@@ -25,7 +25,7 @@
 
 <!--### 🤺 About Me-->
 <!--<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />-->
-<p>&emsp;&emsp;<strong><a a href='https://scinit.github.io' target='_blank' style='text-decoration:none;'>GO TO PAGE</a></strong></p>
+<p>&emsp;&emsp;<strong><a a href='https://scinit.github.io' target='_blank' style='text-decoration:none;'>go to page https://scinit.github.io</a></strong></p>
 
 </td></tr>
 
