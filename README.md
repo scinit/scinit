@@ -1,10 +1,10 @@
 <div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
-  <div>
+  <!--<div>
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's brainstorm;Let's discover;Let's design;Let's create;Let's invent;Let's collaborate;Let's go;scinit!&center=true&size=27" />
     </a>
-  </div>
+  </div> -->
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -25,8 +25,7 @@
 
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<p>&emsp;&emsp;<strong>He is currently a PhD student at Guangdong University of Technology, focusing on research in evolutionary algorithms, evolutionary multitasking, and vehicle routing problems.</strong></p>
-<p>&emsp;&emsp;<strong>He is very open to collaborating with potential partners to explore interesting real-world problems.</strong></p>
+<p>&emsp;&emsp;<strong><a a href='https://scinit.github.io' target='_blank' style='text-decoration:none;'>GO</a></strong></p>
 
 </td></tr>
 
